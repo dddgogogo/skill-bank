@@ -1,3 +1,0 @@
-An integrated 'thinking partner' meta-skill (from thinking-partner) that challenges assumptions and applies 150+ mental models to sharpen a decision or plan — a sparring session, not a lecture. Its `references/` hold the full model catalog and thinking diagnostics. Select it when the action under review would benefit from structured reasoning: stress-testing a conclusion, surfacing hidden assumptions, choosing between options, pre-mortem, or "what am I missing".
-
-- `builtin/thinking-partner`: Thinking Partner — Deterministic assumption-challenging + mental-model application; use to pressure-test a decision, plan, or conclusion.

@@ -1,7 +1,10 @@
 MIT License
 
-This repository is a curated merge of three upstream, MIT-licensed skill
-libraries. Each skill's body is included verbatim from its source. Copyright in
+This repository is a curated merge of upstream, MIT-licensed skill libraries.
+For the three `thinking-models/`, `context-engineering/`, and
+`thinking-partner/` categories, each skill's body is included verbatim from its
+source. The `coding-skill/` category holds short methodology skills distilled
+(not copied verbatim) from the community skills credited below. Copyright in
 each skill remains with its original author:
 
 - thinking-models/      — Copyright (c) tjboudreaux
@@ -10,6 +13,13 @@ each skill remains with its original author:
                           https://github.com/muratcankoylan/agent-skills-for-context-engineering
 - thinking-partner/     — Copyright (c) mattnowdev
                           https://github.com/mattnowdev/thinking-partner
+- coding-skill/         — distilled from, with credit to:
+                          caveman  — https://github.com/mattpocock/skills
+                                     https://github.com/JuliusBrussee/caveman
+                          handoff  — https://github.com/mattpocock/skills
+                          karpathy-agent-discipline
+                                   — https://github.com/multica-ai/andrej-karpathy-skills
+                                     https://github.com/forrestchang/andrej-karpathy-skills
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
